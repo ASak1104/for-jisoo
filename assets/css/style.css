@@ -372,7 +372,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     
 }
 .skill-content{padding: 50px 0 80px;}
-.single-skill-content{padding-top: 100px;}
+.single-skill-content{padding-top: 15px; }
 .section-heading h2 {
     font-size: 24px;
     font-weight: 600;
@@ -393,7 +393,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .barWrapper {
     font-weight: 400;
     font-size: 16px;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 .progress {
     border-radius:3px;
